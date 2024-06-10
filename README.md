@@ -2,6 +2,15 @@
 
 An application with react and django for cab management system
 
+The features of this app include:
+- UI for user to book the cab
+- Backend Algorithms for booking the cab
+- Auth for user
+- Communication using REST API
+- Uses django celery to update the cab location in realtime (for fake data)
+- This is a solution to the case study: [Link](https://rahulgopathi.notion.site/Case-Study-dab20ed8abf841278bc4c65e04609075?pvs=4)
+- The demo video of this app can be found here: [Link](https://drive.google.com/file/d/1JpvkP3RrzmUnCEgZGfD7qqrfowOGne9f/view?usp=sharing)
+
 ## Steps to run locally
 
 - Clone this repository and launch code:
